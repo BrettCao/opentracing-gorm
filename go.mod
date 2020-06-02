@@ -1,4 +1,4 @@
-module github.com/gjbae1212/opentracing-gorm
+module github.com/BrettCao/opentracing-gorm
 
 go 1.13
 
